@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "models/perrynsvehicles/2015_mercedes_nhs_ambulance/glass/glass"
+ 	$translucent "1"
+	$bumpmap "null-bumpmap"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .08 .08 .08 ]"
+	"$colorfix" "{255 255 255}"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "Metal"
+	"$nodecal" "1"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "1"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+
+}
