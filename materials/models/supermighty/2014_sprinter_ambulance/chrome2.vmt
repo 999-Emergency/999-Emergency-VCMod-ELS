@@ -1,6 +1,6 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "models/supermighty/2014_sprinterambulance/light_chrome"
+	"$basetexture" "models/supermighty/2014_sprinter_ambulance/light_chrome"
 	"$bumpmap" "models/supermighty/2014_sprinter_ambulance/skin_nm"
 	"$envmap" env_cubemap
 	"$envmaptint" "[1.25 1.25 1.25]"

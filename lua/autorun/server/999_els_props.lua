@@ -110,7 +110,7 @@ Emergency999.Vehicles["sfiretrucknewvcmod"] = {
 	},
 }
 
-Emergency999.Vehicles["999ambulance"] = {
+Emergency999.Vehicles["999ambulancevcmod"] = {
 Skin = 1,
 	BodyGroups = {
         { 1, 0 },
