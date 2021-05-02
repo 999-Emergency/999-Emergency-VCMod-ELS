@@ -110,7 +110,6 @@ Emergency999.Vehicles["sfiretrucknewvcmod"] = {
 	},
 }
 
-<<<<<<< HEAD
 Emergency999.Vehicles["999ambulance"] = {
 Skin = 1,
 	BodyGroups = {
@@ -362,8 +361,6 @@ Emergency999.Vehicles["sm14sprintlwb4x4"] = {
 		},
 	},	
 }
-=======
->>>>>>> d8108cf12b5c40e9651051ecb5aa6ed10e31dd50
 
 
 	--[[
