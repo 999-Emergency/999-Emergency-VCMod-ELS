@@ -6,10 +6,10 @@ if GetConVar("999emergency_ignore_content_warning"):GetInt() != 1 and !timer.Exi
 	timer.Remove("999emergency_cvar_check")
 	return end
 	
-	chat.AddText(Color(200,20,20),
-	"This addon now requires a Shared Content package, please download it here: https://steamcommunity.com/sharedfiles/filedetails/?id=2475153328
-	\nDisable these warnings by typing '999emergency_ignore_content_warning 1' in console"
-	) // Change to Shared Content Workshop ID
+    chat.AddText(Color(200,20,20),
+    [[ This addon now requires a Shared Content package, please download it here: https://steamcommunity.com/sharedfiles/filedetails/?id=2475153328
+    Disable these warnings by typing '999emergency_ignore_content_warning 1' in console ]]
+    ) // Change to Shared Content Workshop ID
 	if steamworks.IsSubscribed("2475153328") then
 		chat.AddText(Color(200,200,200),
 		"Opening the link in 5 seconds..."
