@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	%notooltexture 1
+
+    	$basetexture "mdj/scania_firetruck_new/dashboard3"
+	"$bumpmap" "mdj/shared/skin_nm"
+
+	$nocull 1
+
+   
+
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
