@@ -55,6 +55,7 @@ Another reason why we chose to create a VCMod ELS pack is to give people the fre
 | [SGM](https://github.com/SentryGunMan) | Models |
 | [Joshua Piper](https://github.com/JoshPiper) | GitHub, Documentation |
 | [TDM](https://steamcommunity.com/id/TheDanishMaster) | Models |
+| [Sir Zac](https://steamcommunity.com/id/sir_zac/) | Police Tool Swep |
 
 
 ## Models Ported Credit List
