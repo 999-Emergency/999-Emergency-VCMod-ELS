@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	%notooltexture 1
+
+    	$basetexture "mdj/scania_firetruck_new/sepura2"
+	"$bumpmap" "mdj/scania_firetruck_new/sepura_nm"
+
+	$nocull 0
+
+   
+
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}

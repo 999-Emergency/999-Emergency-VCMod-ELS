@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"vcmod/lights/whelen_lin6"
+	"$nocull" 1
+	"$additive" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

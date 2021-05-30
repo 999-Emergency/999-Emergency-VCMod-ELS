@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "mdj/scania_firetruck_new/white"
+	"$bumpmap" "mdj/shared/skin_nm"
+"$translucent" 0
+"$nocull" "0"
+"$nodecal" "1"
+	"$phong" "0"
+	"$phongexponent" "10"
+	"$phongboost" "0.5"	
+	"$phongfresnelranges"	"[.3 1 1]"
+	"$carpenisenabled" "1"
+	Proxies // proxies are listed inside this block
+	{
+		Equals // a proxy which produces a penis
+		{
+			srcVar1 $carpenisenabled
+			resultVar	$color // The shader parameter to be manipulated
+
+		}
+	}
+}
