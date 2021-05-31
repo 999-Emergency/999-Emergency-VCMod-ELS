@@ -36,8 +36,19 @@ Another reason why we chose to create a VCMod ELS pack is to give people the fre
 
 ## Social & Support
 
-- [Discord](https://discord.gg/4cBZ6bN)
-- [Steam Group](https://steamcommunity.com/groups/999Emergency)
+• [999Emergency Shared Content](https://steamcommunity.com/sharedfiles/filedetails/?id=2475153328) 
+
+• [999Emergency Photon Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2176739978)
+
+• [999Emergency VCmod Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2475804504) 
+
+• [999Emergency NHS Models](https://steamcommunity.com/sharedfiles/filedetails/?id=2410835801)
+
+• [999Emergency Airbus EC-135](https://steamcommunity.com/sharedfiles/filedetails/?id=2415969002)
+
+• [Discord](https://discord.gg/4cBZ6bN)
+
+• [Steam Group](https://steamcommunity.com/groups/999Emergency)
 
 ## Contributors & Credits
 | Name | Contributions |
