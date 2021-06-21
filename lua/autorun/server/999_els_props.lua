@@ -384,6 +384,11 @@ function Emergency999.SpawnProps(vehicle, props)
 
 		if propData.Skin then prop:SetSkin(propData.Skin) end
 		if propData.RenderMode then prop:SetRenderMode(propData.RenderMode) end
+		if propData.BodyGroups then
+			for k,v in ipairs(propData.BodyGroups) do
+				prop:SetBodygroup(v[1], v[2])
+			end
+		end
 
 		vehicle:CallOnRemove( "RemoveProps", function(ent, prop)
 			if IsValid(prop) then
