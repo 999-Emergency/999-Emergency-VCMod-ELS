@@ -22,6 +22,7 @@ Our end goal is to have a massive VCMod ELS lighting pack dedicated and packed o
 | [GermanDude](https://steamcommunity.com/id/theonlygermandude) | Skins |
 | [SGM](https://github.com/SentryGunMan) | Models |
 | [Joshua Piper](https://github.com/JoshPiper) | GitHub, Documentation, Code Review, Backend |
+| [Adolf Gutenberg](https://steamcommunity.com/id/AdolfGutenberg) | Vehicle Skins, Photon, Playermodel Skins |
 
 We're always looking for people to join our team! If you think you have what it takes, please feel free to message anyone of our Team Members on Steam or Discord and they'll pass it onto the suitable people!
 
