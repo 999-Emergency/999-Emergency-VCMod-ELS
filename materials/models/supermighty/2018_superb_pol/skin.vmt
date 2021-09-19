@@ -1,7 +1,7 @@
 "VertexlitGeneric"
 {
 	
-                "$basetexture" "models/supermighty/2018_superb_pol/skin1"
+                "$basetexture" "models/supermighty/2018_superb_pol/skin"
 	"$bumpmap" "models/smcars/shared/skin_nm"
 	"$nodecal" "1"
 
