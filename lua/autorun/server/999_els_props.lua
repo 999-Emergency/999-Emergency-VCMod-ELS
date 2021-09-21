@@ -17,10 +17,10 @@ Emergency999.Vehicles["sfiretrucknewvcmod"] = {
 	},
 	Props = {
 		[1] = {
-		    	Model 	= "models/supermighty/british_firetruck_lightbar.mdl",
-		    	Pos		= Vector(0, 106.8, 120.5),
-		    	Ang		= Angle( 0, 90, 0 ),
-		    	Scale	= 1,
+			Model 	= "models/supermighty/british_firetruck_lightbar.mdl",
+			Pos		= Vector(0, 106.8, 120.5),
+			Ang		= Angle( 0, 90, 0 ),
+			Scale	= 1,
 		},
 			[2] = {
 				Model 	= "models/noble/whelen_m9/whelen_m9.mdl",
@@ -426,6 +426,13 @@ Emergency999.Vehicles["LRPC_T6VAN1"] = {
 			Pos		= Vector(-9.5, 107.5, 45.1),
 			Ang		= Angle( 1, -175, 180 ),
 			Scale	= 1,
+		},
+		[6] = {
+			Model      = "models/999pack/multivan/boot.mdl",
+			Pos        = Vector(0, 0, 0),
+			Ang        = Angle( 0, -90, 0 ),
+			Scale    = 1,
+	    	Skin = 2,
 		},
 	},
 }
