@@ -121,7 +121,7 @@ Skin = 5,
 	Props = {
 		//front
 		[1] = {
-			Model 	= "lmodes/sentry/props/briishalley.mdl",
+			Model 	= "models/sentry/props/briishalley.mdl",
 			Pos = Vector(-47 , 47.5 , 111),
 			Ang = Angle( 90, 263.5, 0 ),
 			Scale	= 1.25,
